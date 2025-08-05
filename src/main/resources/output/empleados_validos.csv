@@ -1,0 +1,4 @@
+Nombre;Apellido;RUT;Cargo;SalarioBase;Bonos;BonificacionAntiguedad;Descuentos;SalarioFinal;AntiguedadAnios
+SofÃ­a;Rojas;81440572-3;LÃ­der TÃ©cnico;444110.00;102613.00;0.00;374146.00;172577.00;0
+Pedro;PÃ©rez;93922401-2;DevOps;548768.00;234418.00;27438.40;99791.00;710833.40;3
+Luis;PÃ©rez;35769446-4;DevOps;557695.00;174025.00;27884.75;436117.00;323487.75;5
