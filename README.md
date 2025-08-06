@@ -42,6 +42,8 @@ Haz clic en el botón Code y copia la URL (HTTPS ).
 
 Abre tu terminal (Git Bash / Terminal / PowerShell).
 
+Posiciónate sobre una carpeta en la cual descargaras el proyecto
+
 Ejecuta el comando:
 
 git clone https://github.com/aypena/desafioTecnova.git
