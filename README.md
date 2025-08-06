@@ -58,7 +58,7 @@ Navega hasta la carpeta desafioTecnova que acabas de clonar y ábrela.
 IntelliJ detectará automáticamente el proyecto.
 
 Ejecutar la aplicación Con el IDE configurado:
-En IntelliJ, busca la clase con el método main(...) que arranca Spring Boot (normalmente en src/main/java/...)
+En IntelliJ, busca la clase con el método main(...) que arranca Spring Boot (normalmente en src/main/java/DesafioTecnovaApplication)
 
 
 Una vez el Proyecto ya se este ejecutando procedemos a enviar una peticion Post a traves de la aplicacion Postman el cual se detallara a continuacion
